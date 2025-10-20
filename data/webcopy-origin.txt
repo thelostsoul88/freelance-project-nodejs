@@ -1,0 +1,172 @@
+Uri: https://code.jquery.com/jquery-3.6.3.min.js
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\jquery-3.6.3.min-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\index-1.htm
+Content Type: text/html
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/1.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\1-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/2.jpeg
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\2-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/3.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\3-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/4.jpeg
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\4-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/5.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\5-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/bg.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\bg-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/r1.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\r1-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/r2.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\r2-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/3 мультиварка/r3.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\3 мультиварка\r3-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/agreement.html
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\agreement-1.html
+Content Type: text/html
+
+Uri: https://emultivarka.online1.shop/css/AvenirNextCyr.css
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\css\AvenirNextCyr-1.css
+Content Type: text/css
+
+Uri: https://emultivarka.online1.shop/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\css\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://emultivarka.online1.shop/css/reset.css
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\css\reset-1.css
+Content Type: text/css
+
+Uri: https://emultivarka.online1.shop/css/styles.css?1.0
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\css\styles-1.css
+Content Type: text/css
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Bold.ttf
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Bold-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Bold.woff
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Bold.woff2
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Regular.ttf
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Regular-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Regular.woff
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://emultivarka.online1.shop/fonts/subset-AvenirNextCyr-Regular.woff2
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\fonts\subset-AvenirNextCyr-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://emultivarka.online1.shop/garantiya.html
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\garantiya-1.html
+Content Type: text/html
+
+Uri: https://emultivarka.online1.shop/img/loading.gif
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\loading-1.gif
+Content Type: image/gif
+
+Uri: https://emultivarka.online1.shop/img/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\offer3__benefit1_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\offer3__benefit2_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\offer3__benefit3_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/offer__name_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\offer__name_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/offer__phone_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\offer__phone_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/order_steps1__step1_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\order_steps1__step1_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/order_steps1__step2_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\order_steps1__step2_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/order_steps1__step3_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\order_steps1__step3_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/order_steps1__step4_icon.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\order_steps1__step4_icon-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/select.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\select-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/img/slider__arrows.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\img\slider__arrows-1.png
+Content Type: image/png
+
+Uri: https://emultivarka.online1.shop/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\js\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/js/maskedinput.js
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\js\maskedinput-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\js\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/js/previewYouTube.js
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\js\previewYouTube-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/js/scripts.js?1.0
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\js\scripts-1.js
+Content Type: application/javascript
+
+Uri: https://emultivarka.online1.shop/politics.html
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\politics-1.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=1495127687818796&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\tr-1
+Content Type: text/plain
+
+Uri: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+File Name: C:\Downloaded Web Sites\emultivarka.online1.shop\images\branding\product\1x\translate_24dp-1.png
+Content Type: image/png
+

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Дякуємо за заявку</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Nunito:400,500,600,900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">Дякуємо за заявку!</div>
+      <div class="message">
+        Ми зателефонуємо вам найближчим часом, <br />щоб дізнатися деталі
+        замовлення.
+      </div>
+      <div class="info">
+        Перевірте правильність введеної Вами інформації.<br />
+        Ім'я: <%= name %><br />
+        Телефон: <%= phone %>
+      </div>
+      <a class="button" href="/">Повернутися</a>
+    </div>
+    <style>
+      body {
+        background-color: #f0f0f0;
+        font-family: "Nunito", sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        background: linear-gradient(135deg, #007bff, #00bfff);
+        border-radius: 10px;
+        padding: 30px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        margin: 0 auto;
+        margin-top: 50px;
+      }
+      .title {
+        font-size: 28px;
+        color: #fff;
+        margin-bottom: 20px;
+        font-weight: 900;
+      }
+      .message {
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 20px;
+        font-weight: 600;
+      }
+      .info {
+        font-size: 16px;
+        color: #fff;
+        margin-bottom: 20px;
+        font-weight: 500;
+      }
+      .button {
+        padding: 12px 24px;
+        background-color: #fff;
+        color: #029fff;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 25px;
+        transition: background-color 0.3s ease, color 0.3s ease,
+          transform 0.2s ease;
+      }
+      .button:hover {
+        background-color: #000;
+        color: #fff;
+        transform: scale(1.05);
+      }
+      @media (max-width: 576px) {
+        .container {
+          max-width: 75%;
+        }
+      }
+      @media (min-width: 577px) and (max-width: 1024px) {
+        .container {
+          max-width: 75%;
+        }
+      }
+      @media (min-width: 1025px) {
+        .container {
+          max-width: 600px;
+        }
+      }
+    </style>
+  </body>
+</html>
